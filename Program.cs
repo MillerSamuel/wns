@@ -1,0 +1,18 @@
+﻿Human john=new Human("John");
+Human stronk=new Human("Stronk",10,10,10);
+Wizard wizzy=new Wizard("Wizzy");
+Wizard bob=new Wizard("BOB");
+Ninja sam=new Ninja("Sam");
+Ninja joe=new Ninja("Joe");
+Samurai murry=new Samurai("Murry");
+Samurai man=new Samurai("Man",8);
+System.Console.WriteLine(murry.Health);
+System.Console.WriteLine(man.Health);
+man.Attack(murry);
+murry.Attack(man);
+man.Attack(murry);
+man.Attack(murry);
+man.Attack(murry);
+man.Meditate();
+System.Console.WriteLine(murry.Health);
+System.Console.WriteLine(man.Health);

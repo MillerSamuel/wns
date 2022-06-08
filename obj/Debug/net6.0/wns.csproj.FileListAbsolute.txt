@@ -1,0 +1,15 @@
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\wns\bin\Debug\net6.0\wns.exe
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\wns\bin\Debug\net6.0\wns.deps.json
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\wns\bin\Debug\net6.0\wns.runtimeconfig.json
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\wns\bin\Debug\net6.0\wns.dll
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\wns\bin\Debug\net6.0\wns.pdb
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\wns\obj\Debug\net6.0\wns.csproj.AssemblyReference.cache
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\wns\obj\Debug\net6.0\wns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\wns\obj\Debug\net6.0\wns.AssemblyInfoInputs.cache
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\wns\obj\Debug\net6.0\wns.AssemblyInfo.cs
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\wns\obj\Debug\net6.0\wns.csproj.CoreCompileInputs.cache
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\wns\obj\Debug\net6.0\wns.dll
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\wns\obj\Debug\net6.0\refint\wns.dll
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\wns\obj\Debug\net6.0\wns.pdb
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\wns\obj\Debug\net6.0\wns.genruntimeconfig.cache
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\wns\obj\Debug\net6.0\ref\wns.dll
